@@ -1,0 +1,38 @@
+[
+  {
+    "name": "VASTU-GANANA – AI POWERED OBJECT COUNTING",
+    "desc": "A Python-based web application leveraging Flask, OpenCV, and YOLO for real-time object detection and counting. Designed for inventory management and live tracking, it processes live video feeds, excludes human detection, and boosts operational efficiency.",
+    "image": "https://img.icons8.com/color/96/000000/detection.png",
+    "category": "AI/ML",
+    "links": {
+      "code": "https://github.com/RashmiGuddappanavar/Vastu-Ganana-AI-Powered-Object-Counting.-"
+    }
+  },
+  {
+    "name": "Automated Code Base Linter",
+    "desc": "A Python-based tool employing Flake8 to ensure code quality by automating linting tasks, integrated with user account management for enhanced security.",
+    "image": "https://img.icons8.com/color/96/000000/code.png",
+    "category": "Software Development",
+    "links": {
+      "code": "https://github.com/RashmiGuddappanavar/Automated-Code-Base-Linter"
+    }
+  },
+  {
+    "name": "Train Reservation System",
+    "desc": "A C-based application that facilitates train ticket booking, seat management, and fare calculation, offering a streamlined reservation process.",
+    "image": "https://img.icons8.com/color/96/000000/train.png",
+    "category": "Desktop Application",
+    "links": {
+      "code": "https://github.com/RashmiGuddappanavar/Train-Reservation-System"
+    }
+  },
+  {
+    "name": "Banking System",
+    "desc": "A native Android application built using Java and XML. This app provides basic banking functionalities such as account management, transaction tracking, and fund transfers.",
+    "image": "https://img.icons8.com/color/96/000000/bank-building.png",
+    "category": "Mobile Application",
+    "links": {
+      "code": "https://github.com/RashmiGuddappanavar/Banking-System"
+    }
+  }
+]
